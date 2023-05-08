@@ -1,5 +1,4 @@
 #ATM Machine Simulation using C++
-Sure, here is a sample content for a README file for the project you shared:
 
 # ATM Machine Simulation
 
