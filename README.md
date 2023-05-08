@@ -24,10 +24,3 @@ This project is a simulation of an ATM machine that allows users to check their 
 4. Enter your username and password to access your account.
 5. Select an option from the main menu to perform an action.
 
-## Credits
-
-This project was developed by [Your Name]. Feel free to use and modify the code as per your requirements.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
